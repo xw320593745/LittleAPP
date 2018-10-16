@@ -13,7 +13,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.3.0",
 	"appid": "wxba6aa907aa8ba646",
-	"projectname": "HelloWorld",
+	"projectname": "LittleApp",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
