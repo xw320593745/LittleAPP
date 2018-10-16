@@ -1,0 +1,13 @@
+<view>
+  <swiper autoplay='true' interval='5000' indicator-dots='true' vertical=''>
+    <swiper-item>
+      <image src='http://bmob-cdn-19747.b0.upaiyun.com/2018/10/15/35f7d85c4077116e80773a539db1b0da.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image src='http://bmob-cdn-19747.b0.upaiyun.com/2018/10/15/0fc8a4454078ba0a808fbb7748fc27ab.jpg'></image>
+    </swiper-item>
+    <swiper-item>
+      <image src='http://bmob-cdn-19747.b0.upaiyun.com/2018/10/15/87613ea2409d8057807fe3bfde45777f.jpg'></image>
+    </swiper-item>
+  </swiper>
+</view>

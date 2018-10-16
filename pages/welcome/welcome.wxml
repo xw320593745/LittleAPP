@@ -1,0 +1,8 @@
+<!--pages/welcome/welcome.wxml-->
+<view class='container'>
+  <image class='avatar' src='http://bmob-cdn-19747.b0.upaiyun.com/2018/10/15/87613ea2409d8057807fe3bfde45777f.jpg'></image>
+  <text class='motto'>hi,你好呀</text>
+  <view class='journey-container'>
+   <text class='journey'>开启小程序之旅</text> 
+  </view>
+</view>
